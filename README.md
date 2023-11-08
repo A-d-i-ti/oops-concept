@@ -14,9 +14,10 @@ here is my understanding of oops !
 
  - TYPES OF CLASS MEMBERS :
     1. STATIC OR CLASS MEMBER -  ..CALLED USING SCOPE RESOLUTION OPERATOR (::)
+       - ![IMAGE](https://media.geeksforgeeks.org/wp-content/uploads/20230818181616/Types-of-OOPS-2.gif)
        - ![image](https://github.com/A-d-i-ti/oops-concept/assets/142913419/dca2cb48-3ba4-4cdc-81fb-12b78626b898)
          
-    2. NON-STATIC OR INSTANCE MEMBER  - HAS AN OBJECT WITH WHICH CALLED.
+    3. NON-STATIC OR INSTANCE MEMBER  - HAS AN OBJECT WITH WHICH CALLED.
 
         
 2.** CONSTRUCTOR -** METHOD INSIDE  A CLASS (SAME AS CLASS NAME) 
